@@ -13,7 +13,7 @@ class _MyHomePageState extends State<MyHomePage> {
   Widget build(BuildContext context) {
     return MaterialApp(
       home: Scaffold(
-        backgroundColor: Colors.blueAccent,
+        backgroundColor: Color(0xFF0E0F2A),
         body: Container(
           child: Padding(
             padding: const EdgeInsets.only(top: 64.0),
@@ -39,7 +39,7 @@ class _MyHomePageState extends State<MyHomePage> {
                   height: 105,
                   width: double.maxFinite,
                   child: Card(
-                    color: Colors.blueGrey,
+                    color: Color(0xFF1A1F49),
                     elevation: 5,
                     child: Padding(
                       padding: EdgeInsets.all(0),
@@ -101,7 +101,7 @@ class _MyHomePageState extends State<MyHomePage> {
                   height: 105,
                   width: double.maxFinite,
                   child: Card(
-                    color: Colors.blueGrey,
+                    color: Color(0xFF1A1F49),
                     elevation: 5,
                     child: Padding(
                       padding: EdgeInsets.all(0),
@@ -152,7 +152,7 @@ class _MyHomePageState extends State<MyHomePage> {
                   height: 105,
                   width: double.maxFinite,
                   child: Card(
-                    color: Colors.blueGrey,
+                    color: Color(0xFF1A1F49),
                     elevation: 5,
                     child: Padding(
                       padding: EdgeInsets.all(0),
@@ -203,7 +203,7 @@ class _MyHomePageState extends State<MyHomePage> {
                   height: 105,
                   width: double.maxFinite,
                   child: Card(
-                    color: Colors.blueGrey,
+                    color: Color(0xFF1A1F49),
                     elevation: 5,
                     child: Padding(
                       padding: EdgeInsets.all(0),
@@ -254,7 +254,7 @@ class _MyHomePageState extends State<MyHomePage> {
                   height: 105,
                   width: double.maxFinite,
                   child: Card(
-                    color: Colors.blueGrey,
+                    color: Color(0xFF1A1F49),
                     elevation: 5,
                     child: Padding(
                       padding: EdgeInsets.all(0),
